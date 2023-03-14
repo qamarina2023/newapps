@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'NurulApps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D297A0D2EBC64F9C9783714DB712EBE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E452FE3D07B429A964E30C8D095F790 }}
           package: .
